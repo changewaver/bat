@@ -1,2 +1,6 @@
-C:\go\fs.lnk
-C:\go\ss.exe
+@ECHO OFF
+cd C:\go\
+start fs.lnk
+cd C:\go\
+start ss1.exe
+exit
